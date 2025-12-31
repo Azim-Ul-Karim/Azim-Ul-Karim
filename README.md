@@ -1,13 +1,17 @@
-<img src="MeBan.png">
+<img src="MeBanG.png">
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3200&center=true&vCenter=true&color=AC8888&lines=안녕하세요!+👋;This+is+Azim-Ul-Karim!">
+    <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=2500&center=true&vCenter=true&color=AC8888&lines=안녕하세요!+👋;This+is+Azim-Ul-Karim!">
 </h1>
 
 <p align="justify">
-    I’m a MERN Stack Enthusiast with a background in Electronics & Telecommunication Engineering from Rajshahi University of Engineering & Technology. 
+    I’m a MERN Stack Developer with a background in Electronics & Telecommunication Engineering from Rajshahi University of Engineering & Technology. 
     I strive to develop purposeful, user-friendly web applications that feature clean interfaces, enhance accessibility, and foster effective communication.
 </p>
+
+- 🌱 Currently focusing on **Next.js**, **scalable frontend architecture**, and **API integration**
+- 🎯 Interested in **full-stack development** and **AI-assisted web applications**
+- 📫 Contact: **azimulkarim.ete@gmail.com**
 
 ---
 
