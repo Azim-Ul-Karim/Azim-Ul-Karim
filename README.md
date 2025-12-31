@@ -18,8 +18,8 @@
 <h2 align="center">⚙️ Tech Stack</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=latex,python,js,matlab,html,css,tailwind,react,firebase&theme=light" />
-  <img src="https://skillicons.dev/icons?i=autocad,figma,anaconda,tensorflow,opencv,git,github,vscode&theme=light" />
+  <img src="https://skillicons.dev/icons?i=latex,python,js,matlab,html,css,tailwind,react,firebase,nodejs,expressjs&theme=light" />
+  <img src="https://skillicons.dev/icons?i=mongodb,nextjs,autocad,figma,anaconda,tensorflow,opencv,git,github,vscode&theme=light" />
 </p>
 
 ---
@@ -31,7 +31,7 @@
   <!-- Streak Stats -->
   <img src="https://github-readme-streak-stats.herokuapp.com?user=azim-ul-karim&theme=default&hide_border=false" 
        style="width: 50%; max-width: 750px; height: auto;" />
-
+       
   <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azim-ul-karim&layout=compact&theme=default&hide_border=false" 
        style="width: 35%; max-width: 750px; height: auto;" />
